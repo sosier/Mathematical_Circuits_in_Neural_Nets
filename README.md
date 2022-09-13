@@ -36,3 +36,7 @@ Specifically, I show that the optimal network for calculating the minimum of two
 I also demonstrate that these theoretical results hold in practice*. The code for these experiments can be found the Jupyter Notebook in this repo. 
 
 For full details, please see the PDF presenation in this repo.
+
+--- 
+
+_* For full disclosure, while I was able to replicate all the smaller "features" and "circuits" discussed, I haven't been able to get my minimum network to learn the optimal configuration. Right now, it gets stuck in a local minimum. (I think the issue may be related to the fact that certain weights have to be completley zeroed out in the optimal network.) Getting the model to actually learn the optimal weights is the primary next step for this work._
