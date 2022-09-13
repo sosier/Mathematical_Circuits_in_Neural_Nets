@@ -33,9 +33,9 @@ Specifically, I show that the optimal network for calculating the minimum of two
 
 ![Minimum Network](https://user-images.githubusercontent.com/13408985/189795184-f6bc5477-dde0-4042-b200-559a2f02f10d.png)
 
-I also demonstrate that these theoretical results hold in practice*. [The code for these experiments](Mathematical_Circuits.ipynb) can be found in the Jupyter Notebook in this repo. 
-
 For full details, please see the [PDF presenation](Basic_Neural_Network_Circuits.pdf) in this repo.
+
+I also demonstrate that these theoretical results hold in practice*. [The code for these experiments](Mathematical_Circuits.ipynb) can be found in the Jupyter Notebook in this repo. 
 
 --- 
 
