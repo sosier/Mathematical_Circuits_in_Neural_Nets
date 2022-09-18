@@ -22,12 +22,13 @@ This work demonstrates the same concepts apply in the space of neural networks m
 
 ## Results
 
-Specifically, I show that the optimal network for calculating the minimum of two arbitary numbers, is fully constructed from smaller "features" and "circuits" used across even simpler mathematical functions. In doing so, I explore:
+Specifically, I show that the optimal network for calculating the minimum of two arbitary numbers, is fully constructed from smaller "features" and "circuits" used across even simpler mathematical functions. Along the way, I explore:
  - "Positiveness" and "Negativeness" Detectors
  - Identity Circuits (i.e. f(x) = x)
  - Negative Identity Circuits (i.e. f(x) = -x)
  - Subtraction Circuits (i.e. f(x1, x2) = x1 - x2)
  - "Greaterness" Detectors
+ - And More
 
 *Minimum Network:*
 
