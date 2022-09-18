@@ -22,21 +22,18 @@ This work demonstrates the same concepts apply in the space of neural networks m
 
 ## Results
 
-Specifically, I show that the optimal network for calculating the minimum of two arbitary numbers, is fully constructed from smaller "features" and "circuits" used across even simpler mathematical functions such as:
+Specifically, I show that the optimal network for calculating the minimum of two arbitary numbers, is fully constructed from smaller "features" and "circuits" used across even simpler mathematical functions. In doing so, I explore:
  - "Positiveness" and "Negativeness" Detectors
  - Identity Circuits (i.e. f(x) = x)
  - Negative Identity Circuits (i.e. f(x) = -x)
- - "Greaterness" Detectors
  - Subtraction Circuits (i.e. f(x1, x2) = x1 - x2)
- 
+ - "Greaterness" Detectors
+
 *Minimum Network:*
 
-![Minimum Network](https://user-images.githubusercontent.com/13408985/189795184-f6bc5477-dde0-4042-b200-559a2f02f10d.png)
+![Minimum Network](https://user-images.githubusercontent.com/13408985/190928502-f908fead-78f7-4568-83f6-2b1d001fafe6.png)
 
-For full details, please see the [PDF presenation](Basic_Neural_Network_Circuits.pdf) in this repo.
 
-I also demonstrate that these theoretical results hold in practice*. [The code for these experiments](Mathematical_Circuits.ipynb) can be found in the Jupyter Notebook in this repo. 
+For full details, please see the [PDF presenation](Mathematical_Circuits_in_Neural_Networks.pdf) in this repo.
 
---- 
-
-_* For full disclosure, while I was able to replicate all the smaller "features" and "circuits" discussed, I haven't been able to get my minimum network to learn the optimal configuration. Right now, it gets stuck in a local minimum. (I think the issue may be related to the fact that certain weights have to be completley zeroed out in the optimal network.) Getting the model to actually learn the optimal weights is the primary next step for this work._
+I also demonstrate that each of these theoretical results hold in practice. [The code for these experiments](Mathematical_Circuits.ipynb) can be found in the Jupyter Notebook in this repo. 
