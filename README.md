@@ -18,7 +18,7 @@ They demonstrates these claims in the context of image models:
 
 ![Universality](https://user-images.githubusercontent.com/13408985/189792851-3a05d17b-cb22-4b7f-a6fd-09775510401a.png)
 
-This work demonstrates the same concepts apply in the space of neural networks modeling basic mathematical functions.
+This work demonstrate the same concepts apply in the space of neural networks modeling basic mathematical functions.
 
 ## Results
 
