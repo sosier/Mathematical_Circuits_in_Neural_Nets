@@ -10,11 +10,11 @@ By: Sean Osier
 
 They demonstrate these claims in the context of image models:
 
-*Features / Circuits:*
+***Features / Circuits:***
 
 ![Features / Circuit](https://user-images.githubusercontent.com/13408985/189792613-42663d32-3e48-4a3b-846d-331714dca639.png)
 
-*Universality:*
+***Universality:***
 
 ![Universality](https://user-images.githubusercontent.com/13408985/189792851-3a05d17b-cb22-4b7f-a6fd-09775510401a.png)
 
@@ -30,7 +30,7 @@ Specifically, I show that the optimal network for calculating the minimum of two
  - "Greaterness" Detectors
  - And More
 
-*Minimum Network:*
+***Minimum Network:***
 
 ![Minimum Network](https://user-images.githubusercontent.com/13408985/190928502-f908fead-78f7-4568-83f6-2b1d001fafe6.png)
 
@@ -42,6 +42,6 @@ For full details, please see the [PDF presenation](Mathematical_Circuits_in_Neur
 
 ### Watch the Video! (Click image below)
 
-You can watch a full walkthrough of the presenation by clicking the image below:
+You can watch a full walkthrough of the presentation by clicking the image below:
 
 [![Watch the Video](Video_Thumbnail.png)](https://youtu.be/jGQN0TVCtMo)
