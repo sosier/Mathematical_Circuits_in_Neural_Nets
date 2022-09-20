@@ -8,7 +8,7 @@ By: Sean Osier
 
 ![Three Claims](https://user-images.githubusercontent.com/13408985/189792395-8c4ee31b-3d4b-42db-aa62-6a05e3ae6b0c.png)
 
-They demonstrates these claims in the context of image models:
+They demonstrate these claims in the context of image models:
 
 *Features / Circuits:*
 
